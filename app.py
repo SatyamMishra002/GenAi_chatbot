@@ -48,7 +48,7 @@ except ImportError:
 # --- CONFIG ---
 DB_PATH = "chatbot_data.db"
 EMBED_DIM = 1536  # text-embedding-3-small dimension
-EURON_API_KEY = "euri-52f40fd2263d59037383c38f20e8a4a38e2a0d106fcb0780c3786007c8d6a2b2"
+EURON_API_KEY = "use your API key"
 
 # Configure logging
 logging.basicConfig(
